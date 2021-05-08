@@ -16,6 +16,7 @@ Microsoft Corporation is an American multinational technology company with headq
 Google was founded in September 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in California. Together they own about 14% of its shares and control 56% of the stockholder voting power through super-voting stock. Google was incorporated in California on September 4, 1998. Google was then reincorporated in Delaware on October 22, 2002.[12] In July 2003, Google moved to its headquarters in Mountain View, California, nicknamed the Googleplex. The company became a public company via an initial public offering (IPO) on August 19, 2004. In October 2015, Google reorganized as a subsidiary of a conglomerate called Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's Internet interests. Sundar Pichai was appointed CEO of Google, replacing Larry Page, who became the CEO of Alphabet. In 2021, the Alphabet Workers Union was founded, mainly composed of Google employees.[13]
 
 
+
 # 3. Linux 
 
 
