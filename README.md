@@ -10,14 +10,17 @@ Microsoft Corporation is an American multinational technology company with headq
 
 # 2. Google 
 
+
+![Google](https://user-images.githubusercontent.com/69880066/117556291-14d4df00-b01c-11eb-91a2-a502d0dd5089.jpeg)
+
+
 Google was founded in September 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in California. Together they own about 14% of its shares and control 56% of the stockholder voting power through super-voting stock. Google was incorporated in California on September 4, 1998. Google was then reincorporated in Delaware on October 22, 2002.[12] In July 2003, Google moved to its headquarters in Mountain View, California, nicknamed the Googleplex. The company became a public company via an initial public offering (IPO) on August 19, 2004. In October 2015, Google reorganized as a subsidiary of a conglomerate called Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's Internet interests. Sundar Pichai was appointed CEO of Google, replacing Larry Page, who became the CEO of Alphabet. In 2021, the Alphabet Workers Union was founded, mainly composed of Google employees.[13]
-
-
 
 
 # 3. Linux 
 
 
+![image1-11](https://user-images.githubusercontent.com/69880066/117556299-21593780-b01c-11eb-8d97-a610bb9a5942.png)
 
 
 Linux (/ˈlinʊks/ (About this soundlisten) LEEN-uuks or /ˈlɪnʊks/ LIN-uuks[9]) is a family of open-source Unix-like operating systems based on the Linux kernel,[10] an operating system kernel first released on September 17, 1991, by Linus Torvalds.[11][12][13] Linux is typically packaged in a Linux distribution.
